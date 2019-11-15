@@ -34,7 +34,7 @@ public class Pos_Neg_Nul {
 /*9*/   System.out.println("Ingresó " + pos + " números positivos");
 /*9*/   System.out.println("Ingresó " + neg + " números negativos");
 /*9*/   System.out.println("Ingresó " + nul + " números nulos");
-        System.out.println("Total de nuemeros");
+        System.out.println("Total de nuemeros");      
         
     }
     
