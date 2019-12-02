@@ -21,7 +21,7 @@ public class Pos_Neg_Nul {
 /*2*/       for (int i = 0; i < cant; i++) {
 /*3*/       System.out.print("Ingresar numeros: ");
             int num = numeros.nextInt();
-/*4*/           if (num<-0) {
+/*4*/           if (num<0) {
 /*5*/                nul=nul+1;
                 } else {
     
